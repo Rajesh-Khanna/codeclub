@@ -1,0 +1,22 @@
+.titlelayer{
+    padding-top: 24em;
+    padding-bottom: 8em;
+
+    /* background: url("/images/cover.jpg"); */
+    background-size: cover;
+}
+
+.titleblock{
+    padding-left: 8em;
+    width: 60%;
+}
+
+.layer{
+    padding-top: 4em;
+    padding-bottom: 4em;
+}
+
+.upcomingevents{
+    /* background-color: blanchedalmond;     */
+
+}
